@@ -1,0 +1,32 @@
+{
+  "name": "bundle",
+  "version": "1.0.0",
+  "description": "bundle",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelm32/bundle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelm32/bundle/issues"
+  },
+  "homepage": "https://github.com/pavelm32/bundle#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-webpack": "^1.5.0",
+    "uglifyjs-webpack-plugin": "^1.2.2",
+    "webpack": "^4.1.1"
+  }
+}
